@@ -1,0 +1,3 @@
+.postnl-grid-toolbar { display:none; }
+.action-select-wrap .action-menu, .action-select-wrap .abs-action-menu .action-submenu, .action-select-wrap .action-menu .action-submenu, .action-select-wrap .actions-split .dropdown-menu .action-submenu, .action-select-wrap .actions-split .action-menu .action-submenu { top:413px; }
+.data-grid td { padding: 4px 4px 4px 4px !important; }

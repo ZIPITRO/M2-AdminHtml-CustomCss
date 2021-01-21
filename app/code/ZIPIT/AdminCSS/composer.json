@@ -1,0 +1,26 @@
+{
+    "name": "zipit/module-admincss",
+    "description": "Custom CSS for AdminHTML",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "email": "info@mage2gen.com",
+            "name": "Mage2Gen"
+        },
+        {
+            "email": "office@1zip-it.com",
+            "name": "Paul Zwagerman"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "ZIPIT\\AdminCSS\\": ""
+        }
+    }
+}
